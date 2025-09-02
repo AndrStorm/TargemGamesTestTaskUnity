@@ -36,7 +36,8 @@ public class GravityObject : MonoBehaviour
         _exposionRad = _collisionSettings.exposionRad;
         _collisionMaterial = _collisionSettings.collisionMateriall;
     }
-
+    
+    
     private void OnCollisionEnter(Collision collision)
     {
         bool isGravityObject = false;
