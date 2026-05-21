@@ -15,3 +15,10 @@ if several structural elements come into contact during the collision, the count
 c) The button should reset the timer and counter to the initial value.\
 d) The interface must fit on screens with Full HD (1920x1080) and QHD resolution\
 (2560x1440) and should not cover the point of attraction.
+
+### Example
+![](https://github.com/AndrStorm/TargemGamesTestTaskUnity/blob/main/Тестовое%20задание%20программист%20С%23%20(gif).gif)
+
+### Result
+![](https://github.com/AndrStorm/TargemGamesTestTaskUnity/blob/main/CompletedTaskScreenshot.png)
+
